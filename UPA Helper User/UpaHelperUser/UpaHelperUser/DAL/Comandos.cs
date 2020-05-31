@@ -12,7 +12,7 @@ namespace UpaHelperUser.DAL
         Conexao conect = new Conexao();
         SqlCommand c = new SqlCommand();
 
-        SqlDataReader dr; //Criação do leitor do SQL
+        //SqlDataReader dr; //Criação do leitor do SQL
 
         public void BuscarDados()
         {
