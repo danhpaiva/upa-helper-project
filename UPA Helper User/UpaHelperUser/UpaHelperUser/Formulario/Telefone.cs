@@ -16,5 +16,10 @@ namespace UpaHelperUser
         {
             InitializeComponent();
         }
+
+        private void btn_sair_Click(object sender, EventArgs e)
+        {
+            Close(); //Fechar tela atual
+        }
     }
 }
