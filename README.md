@@ -1,2 +1,6 @@
-# upa-helper-project
-:hospital: Projeto da disciplina Práticas de Programação. Criação de dois sistemas em C# utilizando Windows Forms e Banco de Dados SQL SERVER
+# Projeto UPA Helper
+----------------------------
+## Sobre o Projeto
+
+Este projeto foi desenvolvido para avaliação da disciplina Práticas de Programação. <br>
+Criamos dois sistemas na linguagem C# utilizando Windows Forms e fizemos conexão com um banco de dados SQL SERVER. <br>
