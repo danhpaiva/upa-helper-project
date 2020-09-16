@@ -8,7 +8,8 @@ Este projeto foi desenvolvido para avaliação nas disciplinas:<br>
 
 Foi avaliado e recebeu nota total em ambas as disciplinas.
 
-Desenvolvemos dois sistemas na linguagem C# utilizando Windows Forms e conexão em banco de dados SQL SERVER.<br><br>
+Desenvolvemos dois sistemas na linguagem C#.<br>
+Utilizamos Windows Forms e conexão em banco de dados SQL SERVER.<br><br>
 O primeiro sistema é um APP para a UPA (Unidade de Pronto Atendimento),<br>
 onde serão cadastrados os pacientes que necessitam de atendimento.<br>
 O segundo sistema é um APP para o paciente onde ele consultará qual UPA possui menor lotação. <br> 
