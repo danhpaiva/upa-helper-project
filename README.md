@@ -1,6 +1,6 @@
 # :rocket: Projeto UPA Helper
 
-## Sobre o Projeto
+## Descrição
 
 Este projeto foi desenvolvido para avaliação nas disciplinas:<br>
 - Práticas de Programação
@@ -39,7 +39,7 @@ Após o login do funcionário da UPA (médico por exemplo), temos acesso a tela 
 Esta é a aplicação destinada as pessoas que precisam se deslocar até uma UPA.<br>
 Possui a funcionalidade principal de buscar a regional da UPA e obter as informações de lotação e endereço.
 
-## :computer: Ferramentas utilizadas:
+## :toolbox: Ferramentas utilizadas:
 
 - IDE: Visual Studio 2019 <br>
 - Estilização (ícone e back-ground's):<br> 
