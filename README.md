@@ -6,15 +6,18 @@ Este projeto foi desenvolvido para avaliação nas disciplinas:
 - Práticas de Programação
 - Modelagem e Desenvolvimento em Banco de Dados
 
-Foi avaliado e recebeu nota total em ambas as disciplinas.
+<p>
+  Foi avaliado e recebeu nota total em ambas as disciplinas.
+</p>
+<p>
+  Desenvolvemos dois sistemas na linguagem C#.
+  Utilizamos Windows Forms e conexão em banco de dados SQL SERVER.
+</p>
+O primeiro sistema é um APP para a UPA (Unidade de Pronto Atendimento),
+onde serão cadastrados os pacientes que necessitam de atendimento.
+O segundo sistema é um APP para o paciente onde ele consultará qual UPA possui menor lotação. 
 
-Desenvolvemos dois sistemas na linguagem C#.<br>
-Utilizamos Windows Forms e conexão em banco de dados SQL SERVER.<br><br>
-O primeiro sistema é um APP para a UPA (Unidade de Pronto Atendimento),<br>
-onde serão cadastrados os pacientes que necessitam de atendimento.<br>
-O segundo sistema é um APP para o paciente onde ele consultará qual UPA possui menor lotação. <br> 
-
-O projeto visa buscar um atendimento mais rápido para todas as pessoas que precisam do serviço da UPA.<br>
+O projeto visa buscar um atendimento mais rápido para todas as pessoas que precisam do serviço da UPA.
 Consequentemente a UPA ganhará flexibilidade, pois caso esteja cheia de pessoas, não ficará superlotada.
 
 ## :hospital: UPA HELPER
