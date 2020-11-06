@@ -1,10 +1,10 @@
-# :rocket: Projeto UPA Helper
+# :rocket: UPA Helper
 
 ## Descrição
 
-Este projeto foi desenvolvido para avaliação nas disciplinas:<br>
+Este projeto foi desenvolvido para avaliação nas disciplinas:
 - Práticas de Programação
-- Modelagem e Desenvolvimento em Banco de Dados<br>
+- Modelagem e Desenvolvimento em Banco de Dados
 
 Foi avaliado e recebeu nota total em ambas as disciplinas.
 
@@ -46,7 +46,7 @@ Possui a funcionalidade principal de buscar a regional da UPA e obter as informa
 Canva - https://www.canva.com/ <br>
 IconArchive - https://iconarchive.com/ <br>
 - Banco de Dados: SQL SERVER <br>
-- Requisito: .Net FrameWork 4.8 <br>
+- Requisito: .Net FrameWork 4.6.1 <br>
 
 ## :lock: Licença
 
