@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="images/logo.png" width="400" alt="UPA HELPER">
+    <img src="images/logo.png" width="200" alt="UPA HELPER">
   </a>
 </p>
 <p align="center">
@@ -13,10 +13,10 @@
  <a href="#status">Status</a> • 
  <a href="#objetivo">Objetivo</a> •
  <a href="#upahelper">Upa Helper</a>
- <a href="#upauser">Upa USER</a>
+ <a href="#upauser">Upa USER</a> •
  <a href="#instalacao">Instalação</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a> .
+ <a href="#autor">Autor</a> • 
  <a href="#licenca">Licença</a> • 
 </p>
 
