@@ -66,11 +66,10 @@ Esta é a aplicação destinada as pessoas que precisam se deslocar até uma UPA
 Possui a funcionalidade principal de buscar a regional da UPA e obter as informações de lotação e endereço.
 
 <h2 id=instalacao>:clipboard: Instalação</h2>
-1. Faça download do repositório.
 
+1. Faça download do repositório.
 2. Execute o script sql para gerar o banco de dados local.
 > database/UPA_HELPER.sql
-
 3. Debug as aplicações nas respectivas pastas.
 
 <h2 id=tecnologias>:toolbox: Tecnologias</h2>
