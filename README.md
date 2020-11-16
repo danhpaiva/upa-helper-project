@@ -1,4 +1,13 @@
-# :rocket: UPA Helper
+<h1 align="center">:rocket: UPA Helper</h1>
+
+<p align="center">
+  <a href="#">
+    <img src="images/logo.png" width="400" alt="UPA HELPER">
+  </a>
+</p>
+<p align="center">
+    Dois app's desktop para auxiliar o atendimento das UPA's
+</p>
 
 ## Descrição
 
