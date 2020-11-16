@@ -1,4 +1,4 @@
-<h1 align="center">:rocket: UPA Helper</h1>
+<h1 align="center">:hospital: UPA Helper</h1>
 
 <p align="center">
   <a href="#">
@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-    Dois app's desktop para auxiliar o atendimento das UPA's
+    Dois APP's desktop para auxiliar o atendimento das UPA's
 </p>
 
 ## Descrição
