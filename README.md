@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="images/logo.png" width="200" alt="UPA HELPER">
+    <img src="images/logo.png" width="350" alt="UPA HELPER">
   </a>
 </p>
 <p align="center">
@@ -46,7 +46,7 @@ Consequentemente a UPA ganhará flexibilidade, pois caso esteja cheia de pessoas
 <h2 id=upahelper>:hospital: UPA HELPER</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/kmsP0Qg.png">
+  <img src="https://i.imgur.com/kmsP0Qg.png" width="500">
 </p>
 
 Esta é a aplicação destinadas as UPA's.<br>
@@ -59,7 +59,7 @@ Após o login do funcionário da UPA (médico por exemplo), temos acesso a tela 
 <h2 id=upauser>:relaxed: UPA HELPER USER</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/vnTqmQs.png">
+  <img src="https://i.imgur.com/vnTqmQs.png" width="500">
 </p>
 
 Esta é a aplicação destinada as pessoas que precisam se deslocar até uma UPA.<br>
