@@ -65,11 +65,17 @@ Após o login do funcionário da UPA (médico por exemplo), temos acesso a tela 
 Esta é a aplicação destinada as pessoas que precisam se deslocar até uma UPA.<br>
 Possui a funcionalidade principal de buscar a regional da UPA e obter as informações de lotação e endereço.
 
+<h2 id=instalacao>:clipboard: Instalação</h2>
+1. Faça download do repositório.
+2. Execute o script sql para gerar o banco de dados local.
+> database/UPA_HELPER.sql
+3. Debug as aplicações nas respectivas pastas.
+
 <h2 id=tecnologias>:toolbox: Tecnologias</h2>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - IDE: <a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2019</a>
-- Estilos: <a href="https://www.canva.com/">Canva</a> | <a href="https://iconarchive.com/">IconArchive</a> | 
+- Estilos: <a href="https://www.canva.com/">Canva</a> | <a href="https://iconarchive.com/">IconArchive</a>
 - Banco de Dados: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server</a>
 - Requisito: .Net FrameWork 4.7.2 <br>
 
