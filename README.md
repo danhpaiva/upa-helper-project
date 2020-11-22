@@ -1,5 +1,3 @@
-<h1 align="center">:hospital: UPA Helper</h1>
-
 <p align="center">
   <a href="#">
     <img src="images/logo.png" width="350" alt="UPA HELPER">
