@@ -74,6 +74,7 @@ It has the main functionality to search the UPA regional office and obtain the s
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2019</a>
+- SGBD: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL SERVER EXPRESS 2019</a>
 - Styles: <a href="https://www.canva.com/">Canva</a> | <a href="https://iconarchive.com/">IconArchive</a>
 - Database: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server</a>
 - Requirement: .Net FrameWork 4.7.2 <br>
