@@ -13,7 +13,7 @@ namespace UPA_HELPER.DAL
 
         public Conexao()
         {
-            con.ConnectionString = @"Data Source=DESKTOP-O33QR6J\SQLEXPRESS;Initial Catalog=UPA_HELPER;Integrated Security=True";
+            con.ConnectionString = @"Data Source=DESKTOP-GSM9DDC\SQLEXPRESS;Initial Catalog=UPA_HELPER;Integrated Security=True";
         }
 
         public SqlConnection Conectar()
