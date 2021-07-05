@@ -20,20 +20,20 @@ namespace UpaHelperUser
 
         private void btn_tel_Click(object sender, EventArgs e)
         {
-            F_Telephone newScreen = new F_Telephone();
-            newScreen.Show();
+            F_Telephone f_Telephone = new F_Telephone();
+            f_Telephone.Show();
         }
 
         private void btn_covid_Click(object sender, EventArgs e)
         {
-            F_Covid newScreen = new F_Covid();
-            newScreen.Show();
+            F_Covid f_Covid = new F_Covid();
+            f_Covid.Show();
         }
 
         private void btn_dev_Click(object sender, EventArgs e)
         {
-            F_Dev newScreen = new F_Dev();
-            newScreen.Show();
+            F_Dev f_Dev = new F_Dev();
+            f_Dev.Show();
         }
 
         private void btn_search_Click(object sender, EventArgs e)
