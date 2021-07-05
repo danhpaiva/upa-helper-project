@@ -53,19 +53,19 @@ namespace UpaHelperUser
 
             try
             {
-                cmdAddPacienteContador.Connection = conn.Conectar();
+                cmdAddPacienteContador.Connection = conn.Connect();
                 leitorContador = cmdAddPacienteContador.ExecuteReader();
 
                 if (leitorContador.HasRows)
                 {
-                    leitorContador.Read(); //Ler mais linhas
+                    leitorContador.Read();
 
 
                     lbl_qtdPeople.Text = leitorContador[0].ToString() + " paciente(s)"; //Armazenando na label o total de pacientes da tabela
 
                 }
 
-                conn.Desconectar();
+                conn.Disconnect();
             }
             catch (SqlException)
             {
@@ -74,7 +74,7 @@ namespace UpaHelperUser
 
             try
             {
-                cmdPegarEndUPA.Connection = conn.Conectar();
+                cmdPegarEndUPA.Connection = conn.Connect();
                 leitorEndereco = cmdPegarEndUPA.ExecuteReader();
 
                 if (leitorEndereco.HasRows)
@@ -83,7 +83,7 @@ namespace UpaHelperUser
                     lbl_adress.Text = leitorEndereco[0].ToString() + ", " + leitorEndereco[1].ToString() + "\n" + leitorEndereco[2].ToString(); //Pegar os 3 campos do endereço da linha
                 }
 
-                conn.Desconectar();
+                conn.Disconnect();
             }
             catch (SqlException)
             {

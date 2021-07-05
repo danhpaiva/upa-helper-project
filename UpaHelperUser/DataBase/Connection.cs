@@ -11,7 +11,7 @@ namespace UpaHelperUser.DataBase
             conn.ConnectionString = @"Data Source=DESKTOP-GSM9DDC\SQL_SERVER;Initial Catalog=UPA_HELPER;Integrated Security=True";
         }
 
-        public SqlConnection Conectar()
+        public SqlConnection Connect()
         {
             if (conn.State == System.Data.ConnectionState.Closed)
             {
@@ -21,7 +21,7 @@ namespace UpaHelperUser.DataBase
             return conn;
         }
 
-        public void Desconectar()
+        public void Disconnect()
         {
             if (conn.State == System.Data.ConnectionState.Open)
             {
