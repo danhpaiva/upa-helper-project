@@ -86,4 +86,4 @@ Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>,
 <a href="https://www.linkedin.com/in/guilherme-pujoni-4921a0187/">Guilherme Pujoni</a>
 
 <h2 id=licenca>:lock: Licence</h2>
-<a href="https://github.com/danhpaiva/login-csharp-sqlServer/blob/master/LICENSE" target="_blank">MIT</a>
+<a href="https://github.com/danhpaiva/upa-helper-project/blob/master/LICENSE" target="_blank">MIT</a>
