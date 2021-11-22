@@ -77,7 +77,7 @@ The following tools were used in the construction of the project:
 - Database: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server Express 2019</a>
 - SGBD: <a href="https://go.microsoft.com/fwlink/?linkid=2163435">Azure Data Studio</a>
 - Styles: <a href="https://www.canva.com/">Canva</a> | <a href="https://iconarchive.com/">IconArchive</a>
-- Requirement SDK: <a href="https://dotnet.microsoft.com/download/dotnet/5.0">.Net 5</a>
+- Requirement SDK: <a href="https://dotnet.microsoft.com/download">.Net 6</a>
 
 <h2 id=autor>:grin: Author</h2>
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>, 
